@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- %23323330 -->
 ![React](https://img.shields.io/badge/react-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/nodeJS-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=%1AF010)
+![NodeJS](https://img.shields.io/badge/nodeJS-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=%1AA01A)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 ![Html5](https://img.shields.io/badge/html5-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26)
@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 [![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimshamma99&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimshamma99&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimshamma99&count_private=true&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
