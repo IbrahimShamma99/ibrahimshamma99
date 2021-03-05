@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 ![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 ## 🔭 I’m currently learning...
-* Graph Database
+* Reactive programming
 * Design Patterns
 
 ## 🔭 I’m currently reading...
-* Graph algorithms book
+* Software Architecture fundamentals
 
 ## 📫 How to reach me? 💬 Ask me about anything!
 <a href="https://dev.to/ibrahimshamma99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@ibrahimshamma99" height="30" width="40" /></a>
