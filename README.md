@@ -1,4 +1,13 @@
-### Hi there 👋
+<!-- Your title -->
+## Hello, I'm Ibrahim!
+
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ibrahimshamma99)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-abushamma/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ibrahimtechlead)
+
+&nbsp;
+
 
 <!--
 **chachaxw/chachaxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,46 +26,50 @@ Here are some ideas to get you started:
 
 <!-- ## 👀 I’m currently working on -->
 
-# It is Ibrahim
 
-# 🌱 Here is my stack
+**Languages and Tools:**
 
-## Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%23007ACC)
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![CSharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
-
-## Backend Frameworks
-![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
-![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
-
-## DB
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![PostGres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-
-## Frontend
-![React](https://img.shields.io/badge/react-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Html5](https://img.shields.io/badge/html5-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26)
-![Css3](https://img.shields.io/badge/css3-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6)
-![BootStrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## Mobile
-![ReactNative](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-## Hosting
-![Azure](https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)
-
-## Devops
-![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-
-## Tools
-![Trello](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="data:image/png;base64,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"></code>
+  <code><img width="15%" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="15%" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/fastify.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+   <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
+</p>
 
 ## 🔭 I’m currently learning...
 * Reactive programming
@@ -70,15 +83,5 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/ibrahimbon5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ibrahimshamma99g" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ibrahim-abushamma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@ibrahimshamma99" height="30" width="40" /></a>
 
-## 💁🏻 Stats
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimshamma99&theme=onedark" alt="ibrahimshamma99" /></a> </p>
-
-
-[![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimshamma99&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimshamma99&theme=onedark" alt="ibrahimshamma99" /></p>
-
-## Top Langs
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimshamma99&count_private=true&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
