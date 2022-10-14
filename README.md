@@ -1,13 +1,13 @@
 <!-- Your title -->
-## Hello, I'm Ibrahim!
 
+## Hello, I'm Ibrahim!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ibrahimshamma99)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-abushamma/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ibrahimtechlead)
+[![DEV](https://img.shields.io/badge/-DEV-000?style=flat&logo=DEV&logoColor=white)](https://DEV.to/ibrahimshamma99)
 
 &nbsp;
-
 
 <!--
 **chachaxw/chachaxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- ## 👀 I’m currently working on -->
-
 
 **Languages and Tools:**
 
@@ -71,17 +70,15 @@ Here are some ideas to get you started:
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
 </p>
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ravisolanki27&theme=react-dark&hide_border=true&area=true)
+
 ## 🔭 I’m currently learning...
-* Reactive programming
-* Design Patterns
+
+- Reactive programming
+- Design Patterns
 
 ## 🔭 I’m currently reading...
-* Software Architecture fundamentals
 
-## 📫 How to reach me? 💬 Ask me about anything!
-<a href="https://dev.to/ibrahimshamma99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@ibrahimshamma99" height="30" width="40" /></a>
-<a href="https://twitter.com/ibrahimbon5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ibrahimshamma99g" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ibrahim-abushamma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@ibrahimshamma99" height="30" width="40" /></a>
-
+- Software Architecture fundamentals
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimshamma99&theme=onedark" alt="ibrahimshamma99" /></p>
