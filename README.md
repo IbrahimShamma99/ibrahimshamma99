@@ -81,4 +81,5 @@ Here are some ideas to get you started:
 - Software Architecture fundamentals
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimshamma99&theme=onedark" alt="ibrahimshamma99" /></p>
+
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ibrahimshamma99&theme=react-dark&hide_border=true&area=true)
