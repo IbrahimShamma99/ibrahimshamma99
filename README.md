@@ -9,7 +9,7 @@
 
 &nbsp;
 
-Senior Software Engineer in Web. <!-- , currently a principal engineer at Wiley --> I'm passionate about building scalable and maintainable software, writing about software engineering, and helping others learn about software engineering.
+Senior Software Engineer in Web. <!-- , currently a principal engineer at Wiley -->
 
 ## 📝 Latest Blog Posts
 
