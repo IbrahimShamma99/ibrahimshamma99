@@ -15,6 +15,8 @@ Senior Software Engineer in Web. <!-- , currently a principal engineer at Wiley 
 
 - [Engineering lessons from jiu jitsu](https://dev.to/ibrahimshamma99/software-engineering-lessons-after-watching-asian-jiu-jitsu-championship-2nmb)
 
+- [A/B Testing through React federated modules](https://dev.to/ibrahimshamma99/ab-testing-through-react-federated-modules-4n73)
+
 - [Setup Lerna, React, Module Federation & Typescript Monorepo Environment](https://dev.to/ibrahimshamma99/setup-lerna-react-module-federation-typescript-monorepo-environment-11c6)
 
 - [A simplified prospective in sharing Redux Store between Federated React Apps](https://dev.to/ibrahimshamma99/a-simplified-prospective-in-sharing-redux-store-between-federated-react-apps-1kgm)
