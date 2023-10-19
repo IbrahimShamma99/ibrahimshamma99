@@ -33,6 +33,8 @@ Senior Software Engineer in Web. <!-- , currently a principal engineer at Wiley 
 
 - Deep Work Rules for Focused Success in a Distracted World by Cal Newport
 
+- Making Sense of Stream Processing by Martin Kleppmann
+
 - Find Your Balance Point: Clarify Your Priorities, Simplify Your Life, and Achieve More by Brian Tracy
 
 - The Tech Resume Inside Out by Gergely Orosz
