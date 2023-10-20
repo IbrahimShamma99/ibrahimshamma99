@@ -9,7 +9,7 @@
 
 &nbsp;
 
-Senior Software Engineer in Web. <!-- , currently a principal engineer at Wiley -->
+Senior Software Engineer, currently a principal software engineer at Wiley.
 
 ## 📝 Latest Blog Posts
 
