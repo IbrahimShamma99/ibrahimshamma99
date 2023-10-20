@@ -9,7 +9,7 @@
 
 &nbsp;
 
-Senior Software Engineer, currently a principal software engineer at Wiley.
+Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem.
 
 ## 📝 Latest Blog Posts
 
