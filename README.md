@@ -23,7 +23,7 @@ Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem.
 
 - [Always have plan B when your federated components fails](https://dev.to/ibrahimshamma99/always-have-plan-b-when-your-federated-component-fails-35di)
 
-- [Engineering lessons from jiu jitsu](https://dev.to/ibrahimshamma99/software-engineering-lessons-after-watching-asian-jiu-jitsu-championship-2nmb)
+- [React Native Reducers](https://dev.to/ibrahimshamma99/react-type-ahead-native-reducers-l55)
 
 ## 🔭 I’m currently reading...
 
