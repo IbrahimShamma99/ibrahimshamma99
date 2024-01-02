@@ -1,6 +1,6 @@
 <!-- Your title -->
 
-## Hello, I'm Ibrahim!
+## Hello, I'm Ibrahim! [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ibrahimshamma99)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-abushamma/)
