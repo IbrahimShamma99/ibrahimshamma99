@@ -27,11 +27,9 @@ Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem.
 
 ## 🔭 I’m currently reading...
 
-- Engineering survival guide by Merih Taze
+- Crafting Interpreters by Robert Nystrom
 
 ## Books I recommend
-
-<!-- ### Career Development -->
 
 - Deep Work Rules for Focused Success in a Distracted World by Cal Newport
 
@@ -42,6 +40,8 @@ Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem.
 - The Tech Resume Inside Out by Gergely Orosz
 
 - Letters to a New Developer What I Wish I Had Known When Starting My Development Career by Dan Moore
+
+- Engineering survival guide by Merih Taze
 
 ### I am interested in
 
