@@ -27,7 +27,7 @@ Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem.
 
 ## 🔭 I’m currently reading...
 
-- Crafting Interpreters by Robert Nystrom
+- Dive Into Design Patterns by Alexander Shvets
 
 ## Books I recommend
 
@@ -42,6 +42,8 @@ Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem.
 - Letters to a New Developer What I Wish I Had Known When Starting My Development Career by Dan Moore
 
 - Engineering survival guide by Merih Taze
+
+- Crafting Interpreters by Robert Nystrom
 
 ### I am interested in
 
