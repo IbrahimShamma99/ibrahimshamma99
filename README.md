@@ -25,7 +25,7 @@ Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem.
 
 - [Always have plan B when your federated components fails](https://dev.to/ibrahimshamma99/always-have-plan-b-when-your-federated-component-fails-35di)
 
-- [React Type-ahead Native Reducers](https://dev.to/ibrahimshamma99/react-type-ahead-native-reducers-l55)
+- [React Reducers](https://dev.to/ibrahimshamma99/react-type-ahead-native-reducers-l55)
 
 ## 🔭 I’m currently reading...
 
