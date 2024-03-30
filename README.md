@@ -13,6 +13,8 @@ Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem.
 
 ## 📝 Latest Blog Posts
 
+- [Manage telescopic constructors with builder pattern using Typescript](https://dev.to/ibrahimshamma99/manage-telescopic-constructors-with-builder-pattern-using-typescript-di8)
+
 - [A/B Testing through React federated modules](https://dev.to/ibrahimshamma99/ab-testing-through-react-federated-modules-4n73)
 
 - [You may need a ref not a state](https://dev.to/ibrahimshamma99/you-may-need-a-ref-not-a-state-d24)
