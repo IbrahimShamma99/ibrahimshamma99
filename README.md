@@ -13,6 +13,8 @@ Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem.
 
 ## 📝 Latest Blog Posts
 
+- [If losing the small battles would win you in the long run then why not?](https://dev.to/ibrahimshamma99/if-losing-the-small-battles-would-win-you-in-the-long-run-then-why-not-53d4)
+
 - [Manage telescopic constructors with builder pattern using Typescript](https://dev.to/ibrahimshamma99/manage-telescopic-constructors-with-builder-pattern-using-typescript-di8)
 
 - [A/B Testing through React federated modules](https://dev.to/ibrahimshamma99/ab-testing-through-react-federated-modules-4n73)
