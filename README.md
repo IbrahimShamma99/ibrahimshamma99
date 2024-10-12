@@ -31,7 +31,7 @@ Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem.
 
 ## 🔭 I’m currently reading...
 
-- Dive Into Design Patterns by Alexander Shvets
+- [The Rust Programming Language](https://doc.rust-lang.org/book/)
 
 ## Books I recommend
 
