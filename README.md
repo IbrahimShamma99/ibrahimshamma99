@@ -51,4 +51,4 @@ Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem.
 
 ### I am interested in
 
-- Anything related to TS/Rust Dev Tools ecosystem, code scalability and low level details.
+- Anything related to TS ecosystem & Rust Dev Tools, code scalability and low level details.
