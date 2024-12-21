@@ -21,11 +21,11 @@ Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem.
 
 - [You may need a ref not a state](https://dev.to/ibrahimshamma99/you-may-need-a-ref-not-a-state-d24)
 
-- [Setup Lerna, React, Module Federation & Typescript Monorepo Environment](https://dev.to/ibrahimshamma99/setup-lerna-react-module-federation-typescript-monorepo-environment-11c6)
-
 - [A simplified prospective in sharing Redux Store between Federated React Apps](https://dev.to/ibrahimshamma99/a-simplified-prospective-in-sharing-redux-store-between-federated-react-apps-1kgm)
 
 - [Always have plan B when your federated components fails](https://dev.to/ibrahimshamma99/always-have-plan-b-when-your-federated-component-fails-35di)
+
+- [Setup Lerna, React, Module Federation & Typescript Monorepo Environment](https://dev.to/ibrahimshamma99/setup-lerna-react-module-federation-typescript-monorepo-environment-11c6)
 
 - [React Reducers](https://dev.to/ibrahimshamma99/react-type-ahead-native-reducers-l55)
 
