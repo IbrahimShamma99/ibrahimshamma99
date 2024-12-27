@@ -1,5 +1,4 @@
 <!-- Your title -->
-
 ## Hello, I'm Ibrahim! [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ibrahimshamma99)
@@ -8,8 +7,7 @@
 [![DEV](https://img.shields.io/badge/-DEV-000?style=flat&logo=DEV&logoColor=white)](https://DEV.to/ibrahimshamma99)
 
 &nbsp;
-
-Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem.
+Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem & Rust enthusiast.
 
 ## 📝 Latest Blog Posts
 
