@@ -11,6 +11,8 @@ Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem & R
 
 ## 📝 Latest Blog Posts
 
+- [Rspack with Module federation V2](https://dev.to/ibrahimshamma99/rspack-with-module-federation-v2-is-the-future-3g89)
+
 - [If losing the small battles would win you in the long run then why not?](https://dev.to/ibrahimshamma99/if-losing-the-small-battles-would-win-you-in-the-long-run-then-why-not-53d4)
 
 - [Suspense your federated components with caution](https://dev.to/ibrahimshamma99/suspense-your-federated-component-with-caution-2gnc)
