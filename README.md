@@ -21,8 +21,6 @@ Principal Software Engineer at Wiley, specialized in React/Node/TS Ecosystem & R
 
 - [A/B Testing through React federated modules](https://dev.to/ibrahimshamma99/ab-testing-through-react-federated-modules-4n73)
 
-- [You may need a ref not a state](https://dev.to/ibrahimshamma99/you-may-need-a-ref-not-a-state-d24)
-
 - [A simplified prospective in sharing Redux Store between Federated React Apps](https://dev.to/ibrahimshamma99/a-simplified-prospective-in-sharing-redux-store-between-federated-react-apps-1kgm)
 
 - [Always have plan B when your federated components fails](https://dev.to/ibrahimshamma99/always-have-plan-b-when-your-federated-component-fails-35di)
